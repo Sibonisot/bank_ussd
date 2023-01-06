@@ -21,7 +21,7 @@
 ### 3. The created account will be saved on the text file (useraccounts.txt) on database package.
 ### 4. The user is automaticaly loggedin after creating an account or choose option 2 to login using phone number and password.
 ### 5. After the access is granted, the user will be asked to choose to the menu on what transaction they need to do.
-### 6. For each successful transaction, the transaction details will be saved in transaction history text fine on database package.
+### 6. For each successful transaction, the transaction details will be saved in transaction history text fine on database package and can be viewed on transaction history option.
 
 ### 7. OOP
         - The Main class is used to start and run the application.
