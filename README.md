@@ -9,7 +9,15 @@
         - Polymophisim 
         - Interfaces 
 ### 2. On app startup, the user is asked to create or login into an account.
-        - Please not that the user verification is not implemented.
+        - Please not that the user input verification is not implemented.
+        - You can create the account using these dummy details to avoid errors.
+               - ID number: 200328
+               - Name: John
+               - Surname: Smith
+               - Email: john@gmail.com
+               - Phone: 0822253
+               - Password: 200
+        - The account number will be automatically generated.
 ### 3. The created account will be saved on the text file (useraccounts.txt) on database package.
 ### 4. The user is automaticaly loggedin after creating an account or choose option 2 to login using phone number and password.
 ### 5. After the access is granted, the user will be asked to choose to the menu on what transaction they need to do.
