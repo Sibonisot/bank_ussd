@@ -1,5 +1,0 @@
-6000,Sbo,Mthembu,shbo@gmail,io99,90,62130454873,0.0,0.0
-800,djjj,man,hghgs@kkjk,io99,90,62520250612,240289.0,510000.0
-900829,Jam,Mthembu,sibo@gmail.com,io99,90,62863163941,0.0,0.0
-9855,Fina,Tembe,sona@gmail.com,io99,99,62529970645,-400.0,0.0
-200328,John,Smith,john@gmail.com,0822253,200,62785530371,0.0,0.0
